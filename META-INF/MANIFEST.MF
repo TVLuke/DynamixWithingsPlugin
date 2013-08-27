@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.ambientdynamix.contextplugins.withingsdataplugin
+Bundle-Version: 1.0.1
+Bundle-Name: Withings Plugin
+Bundle-Vendor: Provider Name
+Import-Package: org.ambientdynamix.application.api,
+ org.ambientdynamix.contextplugin.api,
+ org.ambientdynamix.contextplugin.api.security
+Export-Package: org.ambientdynamix.contextplugins.withingsdataplugin
